@@ -1,3 +1,5 @@
+examples里面的main是主框架直接农民start可以运行
+
 # 微前端框架 之 qiankun 从入门到源码分析
 
 文章发布于 [掘金](https://juejin.im/post/6885211340999229454)，通过对比 single-spa，详细分析了 qiankun 框架的源码实现
